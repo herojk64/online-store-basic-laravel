@@ -1,0 +1,1 @@
+This project dosnt have much but few basics of online shoping procedures. It also uses rating algorithm which can be used for popular products and stuffs. this is just made for fun and test proposes so you are free to modify it as you like.
